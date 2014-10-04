@@ -1,4 +1,4 @@
 Mira-
 =====
 
-Laba1
+Laba1 galena
